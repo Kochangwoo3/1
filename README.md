@@ -62,9 +62,9 @@
         <section id="prayers" class="section">
             <div class="container">
                 <h2>기도</h2>
-                <p>매일매일 기도를 통해 하느님과 가까워지세요.</p>
+                <h2>매일매일 기도를 통해 하느님과 가까워지세요.</h2>
                 <ul>
-                    <li><strong>하느님 오늘 하루도 감사드려요!</strong></li>
+                    <li><h2><strong>하느님 오늘 하루도 감사드려요!</h2></strong></li>
                 </ul>
             </div>
         </section>
