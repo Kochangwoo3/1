@@ -27,7 +27,7 @@
             <div class="container">
                 <h2>홈</h2>
                 <h1>여기는 어린이들을 위한 성당 공간이에요!</h1>
-                <img src="캡처.PNG" alt="성당 이미지">
+                <img src="예수님과 아이들.PNG" alt="성당 이미지">
             </div>
         </section>
 
